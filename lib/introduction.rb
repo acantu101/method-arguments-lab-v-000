@@ -1,3 +1,3 @@
-def intruduction
-  puts "Hi, my name is Josh."
+def intruduction(name)
+  puts "Hi, my name is {#{name}.}"
 end
